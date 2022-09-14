@@ -6,7 +6,7 @@
 # Screenshot:
 ![image](https://cdn.discordapp.com/attachments/775727248799694859/1014852148720320592/unknown.png)
 
-# ⚠️ Educational purposes only.
+# 🗑️ To buy the drainer, contact me on Telegram (https://t.me/H2ski)
 
 # 💡 Features
 - [x] Most Simple Fake Minting Page
